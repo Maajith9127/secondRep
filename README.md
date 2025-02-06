@@ -1,2 +1,1 @@
-# secondRep
-my second ever gti repository
+Hi there  How are  you
